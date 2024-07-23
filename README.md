@@ -7,7 +7,7 @@
 npm init -y 
 ```
 
-> npm install express mysql body-parser jsonwebtoken crypto --save
+> Instalando as bibliotecas necessarias para a aplicação
 > 
 
 ```bash
